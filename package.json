@@ -1,0 +1,18 @@
+{
+	"name": "test_project",
+	"version": "1.0.0",
+	"description": "test project for WEB-29A",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [
+		"javascript"
+	],
+	"author": "Vitaly Tochenyy",
+	"license": "MIT",
+	"devDependencies": {
+		"tslog": "^4.5.0"
+	}
+}
